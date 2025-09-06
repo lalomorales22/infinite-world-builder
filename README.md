@@ -1,4 +1,5 @@
 # Infinite World Builder
+<img width="1090" height="720" alt="Screenshot 2025-09-06 at 3 04 56 PM" src="https://github.com/user-attachments/assets/909cd57b-dd34-4eb0-b81b-8f835a560220" />
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-lalomorales22/Infinite--world--builder-blue)](https://github.com/lalomorales22/Infinite-world-builder)
 
