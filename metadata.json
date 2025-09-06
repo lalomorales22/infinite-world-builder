@@ -1,0 +1,5 @@
+{
+  "name": "Infinite World Builder",
+  "description": "An infinite, zoomable, and navigable 2D canvas that empowers users to collaboratively or individually build vast, cohesive worlds, one grid-section at a time, using generative AI. The experience evokes the retro aesthetic of Microsoft Paint from the Windows 95 era, while the generated world adheres to a top-down, strategic map perspective.",
+  "requestFramePermissions": []
+}
